@@ -24,11 +24,11 @@ figlet Firzii | lolcat
 
 echo -e  "-------------------------------------------------------------"
 
-echo -e  "Name    : Firzii G4nz $white         " |lolcat
+echo -e  "Name    : Firzii G4nz    " |lolcat
 
-echo -e  "Created by  : ./B0Y-BaST4rD $white   " |lolcat
+echo -e  "Created by  : ./B0Y-BaST4rD    " |lolcat
 
-echo -e  "Contact me : ziiloo2003@gmail.com $white " |lolcat
+echo -e  "Contact me : ziiloo2003@gmail.com  " |lolcat
 
 echo -e  "-------------------------------------------------------------"
 
@@ -62,15 +62,15 @@ exit
 
 echo ""
 
-echo -e $cyan " [1] Wa Spam Chat";
+echo -e " [1] Wa Spam Chat";
 
 echo -e "=============================" | lolcat
 
-echo -e $green " [2] Wa Spam Telpon"; 
+echo -e " [2] Wa Spam Telpon"; 
 
 echo -e "=============================" | lolcat
 
-echo -e $red " [3] LogOut";
+echo -e " [3] LogOut";
 
 echo ""
 
