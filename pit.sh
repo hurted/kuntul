@@ -20,7 +20,18 @@ white='\e[26;1m'
 
 purple='\e[27;1m'
 
-figlet Firzii | lolcat
+echo "
+ ______ _          _ _    _____ _  _             
+
+|  ____(_)        (_|_)  / ____| || |            
+
+| |__   _ _ __ _____ _  | |  __| || |_ _ __  ____
+
+|  __| | | '__|_  / | | | | |_ |__   _| '_ \|_  /
+
+| |    | | |   / /| | | | |__| |  | | | | | |/ / 
+
+|_|    |_|_|  /___|_|_|  \_____|  |_| |_| |_/___|"
 
 echo -e  "-------------------------------------------------------------"
 
@@ -64,13 +75,17 @@ echo ""
 
 echo -e " [1] Wa Spam Chat";
 
-echo -e "=============================" | lolcat
+echo -e "=====================================" | lolcat
 
 echo -e " [2] Wa Spam Telpon"; 
 
-echo -e "=============================" | lolcat
+echo -e "=====================================" | lolcat
 
-echo -e " [3] LogOut";
+echo -e " [3] Toola Cyduk Orang By Indosec";
+
+echo -e "=====================================" | lolcat
+
+echo -e " [4] LogOut";
 
 echo ""
 
@@ -124,9 +139,20 @@ cd WaSpam
 
 php call.php
 
+fi [ $izi = 3 ] || [ $izi = 3 ]
+then
+clear
+echo " Bngst Kau Sia :("
+sleep 1
+git clone https://github.com/indosecid/gps_tracking
+cd gps_tracking
+php gps.php
+if
+
+
 fi
 
-if [ $izi = 3 ] || [ $izi = 3 ]
+if [ $izi = 4 ] || [ $izi = 4 ]
 
 then
 
